@@ -26,7 +26,7 @@ library("doParallel")
 source("ui.R")
 source("server.R")
 
-# nothing
+# something ? 
 
 # RunApp 
 shinyApp( ui = ui , server = server )  
